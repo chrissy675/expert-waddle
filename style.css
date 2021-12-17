@@ -1,3 +1,7 @@
 h1 {
 color: teal;
+text-decoration: line-through;
+}
+body {
+background-color: violet;
 }
